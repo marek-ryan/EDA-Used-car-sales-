@@ -1,1 +1,4 @@
-Exploratory data analysis regarding used car sales with primary focus on fuel type and comparing hybrid vehicles with petrol fueled ones
+- Utilized Python to analyze 6700 used car sale data and gain insights on which metrics led to increased sales
+- Comparisons between sales of hybrid and petrol vehicles were drawn and visualized 
+- Utilizing pandas, the data was grouped based on fuel type and model and futher analyzed
+- Key business insights were presented using PowerPoint
